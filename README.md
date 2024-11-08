@@ -1,14 +1,14 @@
-# 💫 About Me:
+#### 💫 About Me:
 
 👋 Hi, I'm Xavier Alexander<br>
 <br>📍 New York | MS in Applied Health Informatics | Stony Brook Univeristy 🌊🐺 | Data Enthusiast <br>
 
 💼 I am actively seeking Data Analytics and Data Science roles where I can apply my skills to drive impactful solutions and innovations.<br>
 
-# 🌐 Socials:
+#### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/xavier-alexander/) 
 
-# 💻 Tech Stack:
+#### 💻 Tech Stack:
 Programming Languages<br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)  
 
